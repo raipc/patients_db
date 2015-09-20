@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+
+DATABASE_DRIVER = "QMYSQL"
+DATABASE_NAME = "patients_db"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = 3306
+DATABASE_USER = "root"
+DATABASE_PASSWORD = ""
